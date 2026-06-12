@@ -1,1 +1,1 @@
-{"version": "1.0.2", "zip": "https://raw.githubusercontent.com/EnvelopesApp/cleancut-updates/main/CleanCut-app.zip?v=1.0.2", "notes": "Fixed false 'Something went wrong' error after successful jobs"}
+{"version": "1.0.3", "zip": "https://raw.githubusercontent.com/EnvelopesApp/cleancut-updates/main/CleanCut-app.zip?v=1.0.3", "notes": "Saves the finished video next to the original; added a progress bar"}
