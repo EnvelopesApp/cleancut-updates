@@ -1,2 +1,2 @@
-{"version": "1.0.6", "zip": "https://raw.githubusercontent.com/EnvelopesApp/cleancut-updates/main/CleanCut-app.zip?v=1.0.6", "notes": "Updates now work for apps stored in OneDrive/iCloud folders",
+{"version": "1.0.7", "zip": "https://raw.githubusercontent.com/EnvelopesApp/cleancut-updates/main/CleanCut-app.zip?v=1.0.7", "notes": "Fixed first-run failure (word list wasn't created until the editor was opened)",
  "engine_version": "1.1.0", "engine_parts": ["https://raw.githubusercontent.com/EnvelopesApp/cleancut-updates/main/engine.zip.part-aa?v=1.1.0", "https://raw.githubusercontent.com/EnvelopesApp/cleancut-updates/main/engine.zip.part-ab?v=1.1.0", "https://raw.githubusercontent.com/EnvelopesApp/cleancut-updates/main/engine.zip.part-ac?v=1.1.0"]}
