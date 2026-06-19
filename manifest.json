@@ -1,2 +1,8 @@
-{"version": "1.0.36", "zip": "https://raw.githubusercontent.com/EnvelopesApp/cleancut-updates/main/CleanCut-app.zip?v=1.0.36", "notes": "Safer 'Replace original' \u2014 now always moves the old file to the Trash (never deletes it), plus clearer batch messages and a more reliable license Remove.",
- "engine_version": "1.12.5", "engine_parts": ["https://raw.githubusercontent.com/EnvelopesApp/cleancut-updates/main/engine.zip.part-aa?v=1.12.5", "https://raw.githubusercontent.com/EnvelopesApp/cleancut-updates/main/engine.zip.part-ab?v=1.12.5", "https://raw.githubusercontent.com/EnvelopesApp/cleancut-updates/main/engine.zip.part-ac?v=1.12.5"], "models": [{"file": "small.en.pt", "parts": ["https://raw.githubusercontent.com/EnvelopesApp/cleancut-updates/main/small.en.pt.part-aa?v=1", "https://raw.githubusercontent.com/EnvelopesApp/cleancut-updates/main/small.en.pt.part-ab?v=1", "https://raw.githubusercontent.com/EnvelopesApp/cleancut-updates/main/small.en.pt.part-ac?v=1", "https://raw.githubusercontent.com/EnvelopesApp/cleancut-updates/main/small.en.pt.part-ad?v=1", "https://raw.githubusercontent.com/EnvelopesApp/cleancut-updates/main/small.en.pt.part-ae?v=1", "https://raw.githubusercontent.com/EnvelopesApp/cleancut-updates/main/small.en.pt.part-af?v=1"]}]}
+{
+  "version": "1.0.0",
+  "zip": "",
+  "notes": "Legacy in-place updates are retired. Download signed releases from the CleanCut website.",
+  "engine_version": "1.0.0",
+  "engine_parts": [],
+  "models": []
+}

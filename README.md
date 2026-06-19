@@ -1,1 +1,6 @@
-CleanCut auto-update feed — managed by tool/publish_update.sh in the app repo. Holds the app-shell zip, the engine and any pushed models split into 90 MB chunks, and manifest.json (with SHA-256 checksums the app verifies before applying an update). The signed CleanCut.dmg is published as a GitHub *release*, not committed here. Do not hand-edit.
+CleanCut release repository.
+
+Current versions check GitHub Releases and direct customers to the signed,
+notarized `CleanCut.dmg`. The old in-place update payloads remain only so
+historic commits and tags stay intact; `manifest.json` is intentionally pinned
+below every shipped app version to disable that retired updater.
