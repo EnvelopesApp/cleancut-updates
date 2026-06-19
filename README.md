@@ -4,9 +4,12 @@ This public repository hosts CleanCut's signed macOS releases.
 
 ## Current release
 
-- App: `1.0.38`
+- App: `1.0.39`
 - Engine: `1.12.5`
 - Asset: `CleanCut.dmg`
+- Size: `2,090,813,192` bytes
+- SHA-256:
+  `29f1555722a7f09fceda5b615f511d674606d86e246abb771d38342386c2f47a`
 - Platform: Apple Silicon, macOS 14 or later
 - Stable URL:
   <https://github.com/EnvelopesApp/cleancut-updates/releases/latest/download/CleanCut.dmg>
